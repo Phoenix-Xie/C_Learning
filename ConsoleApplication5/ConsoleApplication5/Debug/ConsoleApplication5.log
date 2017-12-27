@@ -1,0 +1,17 @@
+﻿  ConsoleApplication5.cpp
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(112): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(205): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(231): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(408): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(381): warning C4101: “studentNum”: 未引用的局部变量
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(438): warning C4101: “length”: 未引用的局部变量
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(497): warning C4308: 负整型常量转换为无符号类型
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(497): warning C4307: “*”: 整型常量溢出
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(605): warning C4101: “temp”: 未引用的局部变量
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(256): warning C4715: “partition”: 不是所有的控件路径都返回值
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(367): warning C4715: “NewConfig”: 不是所有的控件路径都返回值
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(434): warning C4715: “changeInfo”: 不是所有的控件路径都返回值
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(576): warning C4715: “fSearch”: 不是所有的控件路径都返回值
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(639): warning C4715: “disPlayInfo”: 不是所有的控件路径都返回值
+c:\users\33275\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(725): warning C4715: “checkRepeat”: 不是所有的控件路径都返回值
+  ConsoleApplication5.vcxproj -> C:\Users\33275\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe
